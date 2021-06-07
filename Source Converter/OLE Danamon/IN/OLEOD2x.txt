@@ -1,0 +1,2 @@
+1825736,2814846,IDR,1000000,PAT7 OLEOD 3,PAT7 OLEOD 3,agung.ekoputro@danamon.co.id,o,s
+1825736,2814846,IDR,2000000,PAT7 OLEOD 4,PAT7 OLEOD 4,agung.ekoputro@danamon.co.id,o,s

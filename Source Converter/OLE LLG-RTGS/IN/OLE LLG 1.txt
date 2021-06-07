@@ -1,0 +1,3 @@
+43992502,BCA,Pusat,Pusat,4411129001,Agung Ekoputro,1,Y,IDR,10000,PAT7 OLELLG 1,PAT7 OLELLG 1,agung.ekoputro@danamon.co.id,o,s
+43992502,BCA,Pusat,Pusat,1234567890,Pelle Vehreschild,1,Y,IDR,20000,PAT7 OLELLG 2,PAT7 OLELLG 2,Pelle.Vehreschild@rocket-internet.de,o,s
+43992502,BCA,Pusat,Pusat,7733445566,Marwazi Siagian,1,Y,IDR,30000,PAT7 OLELLG 3,PAT7 OLELLG 3,Marwazi.siagian@lazada.co.id,o,s

@@ -1,0 +1,2 @@
+43992502,BCA,Pusat,Pusat,4411129001,Agung Ekoputro,1,Y,IDR,10,PAT7 OLERTGS 1,PAT7 OLERTGS 1,agung.ekoputro@danamon.co.id,o,s
+43992502,BCA,Pusat,Pusat,4411129001,Agung Ekoputro,1,Y,IDR,20,PAT7 OLERTGS 2,PAT7 OLERTGS 2,agung.ekoputro@danamon.co.id,o,s

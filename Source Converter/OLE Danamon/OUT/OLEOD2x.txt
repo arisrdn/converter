@@ -1,0 +1,3 @@
+H,,,D,Y,,,,
+D,HYR,,1825736,PAT7 OLEOD 3,,,,,2814846,,IDR,,,,agung.ekoputro@danamon.co.id,,PAT7 OLEOD 3,,,,1000000,,,REM,S,,,,,Y,,,,,,,,
+D,HYR,,1825736,PAT7 OLEOD 4,,,,,2814846,,IDR,,,,agung.ekoputro@danamon.co.id,,PAT7 OLEOD 4,,,,2000000,,,REM,S,,,,,Y,,,,,,,,

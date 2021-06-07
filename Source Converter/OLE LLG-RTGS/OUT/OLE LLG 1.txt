@@ -1,0 +1,4 @@
+H,,,D,Y,,,,
+D,LAC,1,43992502,PAT7 OLELLG 1,,,0140397,,4411129001,Agung Ekoputro,IDR,X,,,agung.ekoputro@danamon.co.id,,PAT7 OLELLG 1,,,,10000,,,REM,S,,,,,Y,,,,,,,,
+D,LAC,1,43992502,PAT7 OLELLG 2,,,0140397,,1234567890,Pelle Vehreschild,IDR,X,,,Pelle.Vehreschild@rocket-internet.de,,PAT7 OLELLG 2,,,,20000,,,REM,S,,,,,Y,,,,,,,,
+D,LAC,1,43992502,PAT7 OLELLG 3,,,0140397,,7733445566,Marwazi Siagian,IDR,X,,,Marwazi.siagian@lazada.co.id,,PAT7 OLELLG 3,,,,30000,,,REM,S,,,,,Y,,,,,,,,
